@@ -9,9 +9,11 @@ numpy = "*"
 matplotlib = "*"
 graphviz = "*"
 torch = "*"
+micrograd = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.13"
-python_full_version = "3.13.9"
+python_version = "3.14"
+python_full_version = "3.14.2"
